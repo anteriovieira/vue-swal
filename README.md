@@ -23,7 +23,7 @@ import VueSwal from 'vue-swal'
 Vue.use(VueSwal)
 ```
 
-#### Simply happens
+### Simply happens
 
 ```js
 export default {
