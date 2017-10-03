@@ -4,6 +4,8 @@
 
 > A Vue.js Plugin
 
+[Api sweetalert](https://sweetalert.js.org/guides/#getting-started)
+
 ## Installation
 
 ```bash
@@ -17,10 +19,20 @@ npm install --save vue-swal
 ```js
 import Vue from 'vue'
 import VueSwal from 'vue-swal'
-// You need a specific loader for CSS files like https://github.com/webpack/css-loader
-import 'vue-swal/dist/vue-swal.css'
 
 Vue.use(VueSwal)
+```
+
+#### Simply happens
+
+```js
+export default {
+  methods: {
+    alert() {
+      this.$swal('Hello word!')
+    }
+  }
+}
 ```
 
 ### Browser
@@ -28,11 +40,9 @@ Vue.use(VueSwal)
 ```html
 <!-- Include after Vue -->
 <!-- Local files -->
-<link rel="stylesheet" href="vue-swal/dist/vue-swal.css"></link>
 <script src="vue-swal/dist/vue-swal.js"></script>
 
 <!-- From CDN -->
-<link rel="stylesheet" href="https://unpkg.com/vue-swal/dist/vue-swal.css"></link>
 <script src="https://unpkg.com/vue-swal"></script>
 ```
 
@@ -56,22 +66,6 @@ Bundle the js and css of to the `dist` folder:
 
 ```bash
 npm run build
-```
-
-
-## Publishing
-
-The `prepublish` hook will ensure dist files are created before publishing. This
-way you don't need to commit them in your repository.
-
-```bash
-# Bump the version first
-# It'll also commit it and create a tag
-npm version
-# Push the bumped package and tags
-git push --follow-tags
-# Ship it 🚀
-npm publish
 ```
 
 ## License
