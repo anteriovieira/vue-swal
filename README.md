@@ -6,7 +6,11 @@
 
 <p align="center">
   <a href="https://www.npmjs.com/package/vue-swal" target="_blank"><img src="https://sweetalert.js.org/assets/images/modal-examples.png"></a>
-  [Api sweetalert](https://sweetalert.js.org/guides/#getting-started) or [Live demo](https://jsfiddle.net/anteriovieira/xkkbfL3L/1800/)
+</p>
+
+<p align="center">
+  <a href="https://sweetalert.js.org/guides/#getting-started" target="_blank">Api sweetalert</a> or 
+  <a href="https://jsfiddle.net/anteriovieira/xkkbfL3L/1800/" target="_blank">Live demo</a>
 </p>
 
 ## Installation
