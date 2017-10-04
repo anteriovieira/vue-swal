@@ -84,7 +84,7 @@ export default {
 
 <p align="center">
   <a href="https://jsfiddle.net/anteriovieira/xkkbfL3L/1801/" target="_blank">
-    <img style="max-width: 50%" src="https://github.com/anteriovieira/vue-swal/blob/master/media/advanced-example..png?raw=true">
+    <img style="max-width: 50%" src="https://raw.githubusercontent.com/anteriovieira/vue-swal/master/media/advanced-example.png">
   </a>
 </p>
 
