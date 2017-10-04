@@ -38,6 +38,17 @@ import VueSwal from 'vue-swal'
 Vue.use(VueSwal)
 ```
 
+### Browser
+
+```html
+<!-- Include after Vue -->
+<!-- Local files -->
+<script src="vue-swal/dist/vue-swal.js"></script>
+
+<!-- From CDN -->
+<script src="https://unpkg.com/vue-swal"></script>
+```
+
 ### Simply happens
 
 ```js
@@ -50,38 +61,32 @@ export default {
 }
 ```
 
-### Browser
+## Examples
 
-```html
-<!-- Include after Vue -->
-<!-- Local files -->
-<script src="vue-swal/dist/vue-swal.js"></script>
 
-<!-- From CDN -->
-<script src="https://unpkg.com/vue-swal"></script>
-```
+### Basic Example
 
-## Development
+<p align="center">
+  <a href="https://jsfiddle.net/anteriovieira/xkkbfL3L/1800/" target="_blank">Live demo</a>
+</p>
 
-### Launch visual tests
+<p align="center">
+  <a href="https://jsfiddle.net/anteriovieira/xkkbfL3L/1800/" target="_blank">
+    <img src="https://raw.githubusercontent.com/anteriovieira/vue-swal/master/midia/basic-example.png">
+  </a>
+</p>
 
-```bash
-npm run dev
-```
+### Advanced Example
 
-### Launch Karma with coverage
+<p align="center">
+  <a href="https://jsfiddle.net/anteriovieira/xkkbfL3L/1801/" target="_blank">Live demo</a>
+</p>
 
-```bash
-npm run dev:coverage
-```
-
-### Build
-
-Bundle the js and css of to the `dist` folder:
-
-```bash
-npm run build
-```
+<p align="center">
+  <a href="https://jsfiddle.net/anteriovieira/xkkbfL3L/1801/" target="_blank">
+    <img src="https://raw.githubusercontent.com/anteriovieira/vue-swal/master/midia/advanced-example.png">
+  </a>
+</p>
 
 ## License
 
