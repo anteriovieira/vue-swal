@@ -72,7 +72,7 @@ export default {
 
 <p align="center">
   <a href="https://jsfiddle.net/anteriovieira/xkkbfL3L/1800/" target="_blank">
-    <img style="max-width: 50%" src="https://raw.githubusercontent.com/anteriovieira/vue-swal/master/media/basic-example.png">
+    <img style="width: 50%" src="https://raw.githubusercontent.com/anteriovieira/vue-swal/master/media/basic-example.png#1">
   </a>
 </p>
 
@@ -84,7 +84,7 @@ export default {
 
 <p align="center">
   <a href="https://jsfiddle.net/anteriovieira/xkkbfL3L/1801/" target="_blank">
-    <img style="max-width: 50%" src="https://raw.githubusercontent.com/anteriovieira/vue-swal/master/media/advanced-example.png">
+    <img style="width: 50%" src="https://raw.githubusercontent.com/anteriovieira/vue-swal/master/media/advanced-example.png#1">
   </a>
 </p>
 
