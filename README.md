@@ -4,7 +4,11 @@
 
 > A Vue.js Plugin
 
-[Api sweetalert](https://sweetalert.js.org/guides/#getting-started)
+<p align="center">
+  <a href="https://www.npmjs.com/package/vue-swal" target="_blank"><img src="https://sweetalert.js.org/assets/images/modal-examples.png"></a>
+</p>
+
+[Api sweetalert](https://sweetalert.js.org/guides/#getting-started) or [Live demo](https://jsfiddle.net/anteriovieira/xkkbfL3L/1800/)
 
 ## Installation
 
