@@ -15,8 +15,16 @@
 
 ## Installation
 
+### npm
+
 ```bash
-npm install --save vue-swal
+npm install vue-swal
+```
+
+### yarn
+
+```bash
+yarn add vue-swal
 ```
 
 ## Usage
