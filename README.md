@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://sweetalert.js.org/guides/#getting-started" target="_blank">Api sweetalert</a> or 
-  <a href="https://jsfiddle.net/anteriovieira/xkkbfL3L/1800/" target="_blank">Live demo</a>
+  <a href="#examples" target="_blank">Examples</a>
 </p>
 
 ## Installation
@@ -72,7 +72,7 @@ export default {
 
 <p align="center">
   <a href="https://jsfiddle.net/anteriovieira/xkkbfL3L/1800/" target="_blank">
-    <img src="https://raw.githubusercontent.com/anteriovieira/vue-swal/master/midia/basic-example.png">
+    <img src="https://raw.githubusercontent.com/anteriovieira/vue-swal/master/media/basic-example.png">
   </a>
 </p>
 
@@ -84,7 +84,7 @@ export default {
 
 <p align="center">
   <a href="https://jsfiddle.net/anteriovieira/xkkbfL3L/1801/" target="_blank">
-    <img src="https://raw.githubusercontent.com/anteriovieira/vue-swal/master/midia/advanced-example.png">
+    <img src="https://raw.githubusercontent.com/anteriovieira/vue-swal/master/media/advanced-example.png">
   </a>
 </p>
 
