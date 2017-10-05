@@ -2,7 +2,7 @@
 
 [![npm](https://img.shields.io/npm/v/vue-swal.svg)](https://www.npmjs.com/package/vue-swal) [![vue2](https://img.shields.io/badge/vue-2.x-brightgreen.svg)](https://vuejs.org/)
 
-> A Vue.js Plugin
+> You can customize VueSwal to fit your needs.
 
 <p align="center">
   <a href="https://www.npmjs.com/package/vue-swal" target="_blank"><img src="https://sweetalert.js.org/assets/images/modal-examples.png"></a>
