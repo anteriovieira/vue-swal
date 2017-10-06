@@ -63,30 +63,9 @@ export default {
 
 ## Examples
 
-
-### Basic Example
-
-<p align="center">
-  <a href="https://jsfiddle.net/anteriovieira/xkkbfL3L/1800/" target="_blank">Live demo</a>
-</p>
-
-<p align="center">
-  <a href="https://jsfiddle.net/anteriovieira/xkkbfL3L/1800/" target="_blank">
-    <img style="width: 50%" src="https://raw.githubusercontent.com/anteriovieira/vue-swal/master/media/basic-example.png#1">
-  </a>
-</p>
-
-### Advanced Example
-
-<p align="center">
-  <a href="https://jsfiddle.net/anteriovieira/xkkbfL3L/1801/" target="_blank">Live demo</a>
-</p>
-
-<p align="center">
-  <a href="https://jsfiddle.net/anteriovieira/xkkbfL3L/1801/" target="_blank">
-    <img style="width: 50%" src="https://raw.githubusercontent.com/anteriovieira/vue-swal/master/media/advanced-example.png#1">
-  </a>
-</p>
+|[Basic Example](https://jsfiddle.net/anteriovieira/xkkbfL3L/1800) | [Advanced Example](https://jsfiddle.net/anteriovieira/xkkbfL3L/1801) |
+|--------|-------------|
+|![basic example](https://raw.githubusercontent.com/anteriovieira/vue-swal/master/media/basic-example.png#1) | ![advanced example](https://raw.githubusercontent.com/anteriovieira/vue-swal/master/media/advanced-example.png#1)
 
 ## License
 
