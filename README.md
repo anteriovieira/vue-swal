@@ -67,6 +67,44 @@ export default {
 |--------|-------------|
 |![basic example](https://raw.githubusercontent.com/anteriovieira/vue-swal/master/media/basic-example.png#1) | ![advanced example](https://raw.githubusercontent.com/anteriovieira/vue-swal/master/media/advanced-example.png#1)
 
+## Using Nuxt.js
+
+Using the plugin with nuxt is really very simple.
+
+Add file `plugins/vue-swal.js`:
+
+```js
+import Vue from 'vue'
+import VueSwal from 'vue-swal'
+
+Vue.use(VueSwal)
+```
+
+Then, we add the file inside the `plugins` key of `nuxt.config.js`:
+
+```js
+module.exports = {
+  plugins: ['~/plugins/vue-swal']
+}
+```
+
+> To learn more about the `plugins` configuration key, check out the [plugins api](/api/configuration-plugins).
+
+The, `vue-swal` will be included in the app bundle, but because it's a library, we want to include it in the vendor bundle for better caching.
+
+We can update our `nuxt.config.js` to add `vue-swal` in the vendor bundle:
+
+```js
+module.exports = {
+  build: {
+    vendor: ['vue-swal']
+  },
+  plugins: ['~/plugins/vue-swal']
+}
+```
+
+Click [here](https://github.com/anteriovieira/vue-swal-ssr-app) to see a complete example.
+
 ## License
 
 [MIT](http://opensource.org/licenses/MIT)
