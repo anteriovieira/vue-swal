@@ -63,7 +63,7 @@ export default {
 
 ## Examples
 
-|[Basic Example](https://jsfiddle.net/anteriovieira/xkkbfL3L/1800) | [Advanced Example](https://jsfiddle.net/anteriovieira/xkkbfL3L/1801) |
+|[Basic Example](https://jsfiddle.net/anteriovieira/xkkbfL3L/1800) | [Advanced Example](https://jsfiddle.net/anteriovieira/8nawdjs7) |
 |--------|-------------|
 |![basic example](https://raw.githubusercontent.com/anteriovieira/vue-swal/master/media/basic-example.gif#1) | ![advanced example](https://raw.githubusercontent.com/anteriovieira/vue-swal/master/media/advanced-example.gif#1)
 
