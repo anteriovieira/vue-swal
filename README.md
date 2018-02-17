@@ -1,6 +1,11 @@
 # VueSwal
 
-[![npm](https://img.shields.io/npm/v/vue-swal.svg)](https://www.npmjs.com/package/vue-swal) [![vue2](https://img.shields.io/badge/vue-2.x-brightgreen.svg)](https://vuejs.org/)
+[![npm (scoped with tag)](https://img.shields.io/npm/v/vue-swal/latest.svg?style=flat-square)](https://npmjs.com/package/vue-swal)
+[![vue2](https://img.shields.io/badge/vue-2.x-brightgreen.svg)](https://vuejs.org/)
+[![npm](https://img.shields.io/npm/dtvue-swal.svg?style=flat-square)](https://npmjs.com/packagevue-swal)
+[![CircleCI](https://img.shields.io/circleci/project/github/anteriovieira/vue-swal.svg?style=flat-square)](https://circleci.com/gh/anteriovieira/vue-swal)
+[![Codecov](https://img.shields.io/codecov/c/github/anteriovieira/vue-swal.svg?style=flat-square)](https://codecov.io/gh/anteriovieira/vue-swal)
+[![donate](https://img.shields.io/badge/donate-%E2%99%A5-ff5f5f.svg)](https://patreon.com/anteriovieira)
 
 > You can customize VueSwal to fit your needs.
 
