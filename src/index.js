@@ -13,5 +13,6 @@ export default plugin
 const version = '__VERSION__'
 // Export all components too
 export {
+  swal,
   version
 }
