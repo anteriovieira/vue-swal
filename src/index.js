@@ -1,7 +1,7 @@
 import swal from 'sweetalert'
 
 function plugin (Vue) {
-  Vue.prototype.$swal = swal
+  Vue.prototype.$swal = Vue.$swal = swal
 }
 
 // Install by default if using the script tag
