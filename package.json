@@ -1,6 +1,6 @@
 {
   "name": "vue-swal",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A Vue.js Plugin",
   "author": "Antério Vieira <>",
   "main": "dist/vue-swal.common.js",
@@ -124,11 +124,8 @@
     "url": "https://github.com/anteriovieira/vue-swal/issues"
   },
   "homepage": "https://github.com/anteriovieira/vue-swal#readme",
-  "license": {
-    "type": "MIT",
-    "url": "http://www.opensource.org/licenses/mit-license.php"
-  },
+  "license": "MIT",
   "dependencies": {
-    "sweetalert": "^2.0.4"
+    "sweetalert": "^2.1.2"
   }
 }
